@@ -1,7 +1,41 @@
-# Vue 3 + Vite
+# CotizaPréstamosVue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![Captura de la aplicación](/public/Captura1.png)
 
-## Recommended IDE Setup
+## Demo
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[Enlace a la Demo](https://bankluis-vue.netlify.app/)
+
+## Descripción
+
+CotizaPréstamosVue es una aplicación simple que te permite calcular el monto total y las mensualidades de un préstamo basándose en la cantidad solicitada y el plazo seleccionado. La aplicación está construida con Vue 3 y utiliza Vite para la parte visual.
+
+## Características
+
+- Ajusta la cantidad y el plazo para obtener una cotización instantánea.
+- Visualiza el monto total a pagar y las mensualidades.
+- Diseño limpio y fácil de usar.
+
+## Tecnologías Utilizadas
+
+- Vue 3
+- Vite
+- Tailwind CSS
+
+## Instalación
+
+1. Clona este repositorio: `git clone https://github.com/LuisMariscalDev/CotizaPrestamosVue.git`
+2. Instala las dependencias: `npm install`
+3. Ejecuta la aplicación: `npm run dev`
+
+## Uso
+
+1. Abre la aplicación en tu navegador.
+2. Ajusta la cantidad y el plazo usando los controles deslizantes y el menú desplegable.
+3. Observa cómo se actualiza instantáneamente la información sobre el préstamo.
+
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT.
+
