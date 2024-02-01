@@ -1,6 +1,6 @@
 # CotizaPréstamosVue
 
-![Captura de la aplicación](/public/Captura1.png)
+![Captura de la aplicación](./public/captura1.png)
 
 ## Demo
 
@@ -39,3 +39,6 @@ CotizaPréstamosVue es una aplicación simple que te permite calcular el monto t
 
 Este proyecto está bajo la Licencia MIT.
 
+## Autor
+
+LuisMariscalDev
